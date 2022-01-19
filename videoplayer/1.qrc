@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../tupian/84.jpg</file>
+        <file>../../tupian/840.jpg</file>
+        <file>../../tupian/853.jpg</file>
+        <file>../../tupian/454.png</file>
+    </qresource>
+</RCC>

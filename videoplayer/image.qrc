@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bofang.jpg</file>
+        <file>last.jpg</file>
+        <file>next.jpg</file>
+        <file>pause.jpg</file>
+        <file>tingzhi.jpg</file>
+        <file>volumn.jpg</file>
+        <file>openfile.jpg</file>
+        <file>fullscreen.jpg</file>
+        <file>widgeticon.jpg</file>
+        <file>background.jpg</file>
+        <file>music.jpg</file>
+        <file>video.jpg</file>
+        <file>silence.jpg</file>
+    </qresource>
+</RCC>
